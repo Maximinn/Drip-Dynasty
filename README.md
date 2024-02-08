@@ -1,24 +1,10 @@
 # Drip-Dynasty
 
-Backend (NetBeans):
--Ouvrez NetBeans.
--Importez le projet Backend.
--Utilisez un serveur Apache Tomcat configuré pour utiliser le port 8888.
--Construisez le projet.
--Exécutez le projet.
+BackEnd:
+Dans NetBeans ouvrir le fichier Backend, utiliser un serveur (Apache Tomcat) utilisant le port 8888, buil le projet puis le run.
 
-FrontEnd (Visual Studio Code):
--Ouvrez Visual Studio Code (VSC).
--Importez le projet FrontEnd.
--Assurez-vous que vous avez Node.js installé, avec une version égale ou supérieure à 18.2.
--Ouvrez un terminal dans le dossier FrontEnd.
-Exécutez les commandes suivantes dans l'ordre :
--npm install (pour installer les dépendances)
--npm run build (pour construire le projet)
--npm run dev (pour exécuter le projet en mode développement)
+FrontEnd:
+Dans VSC ouvrir le fichier FrontEnd, verifier que vous avez une version de node.js egale ou superieur a la version 18.2, ouvrir un terminal sur le fichier FrontEnd puis faire dans l'ordre npm install, npm run build, npm runn dev.
 
-Base de données (pgAdmin 4):
--Ouvrez pgAdmin 4.
--Créez une base de données nommée "ProduitMagasin".
--Dans les fichiers de la base de données, copiez-collez le script SQL pour créer les tables nécessaires.
--Exécutez également les commandes d'insertion pour peupler la base de données.
+DataBase:
+Dans pgAdmin 4 cree une database du nom de ProduitMagasin, puis dans les fichier DataBase copier coller le scrip puis les insert pour peupler la database.
