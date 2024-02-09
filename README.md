@@ -15,7 +15,7 @@
 4. Dans le terminal du dossier FrontEnd, exécutez les commandes suivantes dans l'ordre :
     - `npm install`
     - `npm run build`
-    - `npm run dev`.
+    - `npm run dev`
 
 ### Database
 1. Utilisez pgAdmin 4.
